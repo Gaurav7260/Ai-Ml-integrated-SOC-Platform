@@ -1,0 +1,17 @@
+{
+    "model_name": "LightGBM Baseline",
+    "dataset": "Dataset 1 - Windows PE",
+    "target_mapping": {
+        "0": "Benign",
+        "1": "Malware"
+    },
+    "classification_threshold": 0.35,
+    "positive_class": 1,
+    "number_of_features": 637,
+    "test_accuracy": 0.9615,
+    "test_precision": 0.9583,
+    "test_recall": 0.965,
+    "test_f1_score": 0.9616,
+    "test_false_positives": 42,
+    "test_false_negatives": 35
+}

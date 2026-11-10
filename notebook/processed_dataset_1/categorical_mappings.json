@@ -1,0 +1,47 @@
+{
+    "header_coff_machine": [
+        "IMAGE_FILE_MACHINE_AMD64",
+        "IMAGE_FILE_MACHINE_IA64"
+    ],
+    "header_optional_subsystem": [
+        "IMAGE_SUBSYSTEM_WINDOWS_GUI",
+        "IMAGE_SUBSYSTEM_WINDOWS_CUI",
+        "IMAGE_SUBSYSTEM_NATIVE",
+        "IMAGE_SUBSYSTEM_WINDOWS_BOOT_APPLICATION",
+        "IMAGE_SUBSYSTEM_EFI_APPLICATION",
+        "IMAGE_SUBSYSTEM_EFI_RUNTIME_DRIVER",
+        "IMAGE_SUBSYSTEM_UNKNOWN"
+    ],
+    "section_entry": [
+        ".text",
+        "upx1",
+        "",
+        ".boot",
+        "init",
+        ".vmp1",
+        "upx0",
+        ".code",
+        ".rsrc",
+        ".themida",
+        ".mpress2",
+        ".9k>",
+        ".rbdata",
+        ".vmp2",
+        ".text2",
+        ".dyl1",
+        ".map2",
+        ".std",
+        ".zdata",
+        ".upx1",
+        ".reloc",
+        ".of2",
+        "        ",
+        ".vixen1",
+        "eintim",
+        ".rdata",
+        ".cod2",
+        ".aspr2",
+        ".hexpthk",
+        ".sb2"
+    ]
+}
